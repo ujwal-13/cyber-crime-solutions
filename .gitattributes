@@ -1,0 +1,4 @@
+*.jsx linguist-language=JavaScript
+*.js linguist-language=JavaScript
+frontend/* linguist-documentation=false
+NODE/* linguist-documentation=false
